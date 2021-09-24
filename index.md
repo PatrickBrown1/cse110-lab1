@@ -55,15 +55,15 @@ def shuffle(a):
 (Source: https://www.geeksforgeeks.org/bogosort-permutation-sort/)
 
 ##### Task List
-- [X] Headings
-- [X] Styling text
-- [X] Quoting text
-- [X] Quoting code
-- [X] External Links (Spotify in about)
-- [X] Section links
-- [X] Relative links ([secret dog link right here don't tell anyone](images/dogs/hiddendogpic.JPG))
-- [X] Ordered and Unordered Lists
-- [X] Task lists
+[X] Headings
+[X] Styling text
+[X] Quoting text
+[X] Quoting code
+[X] External Links (Spotify in about)
+[X] Section links
+[X] Relative links ([secret dog link right here don't tell anyone](images/dogs/hiddendogpic.JPG))
+[X] Ordered and Unordered Lists
+[X] Task lists
 
 
 
