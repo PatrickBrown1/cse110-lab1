@@ -52,15 +52,15 @@ def shuffle(a):
         r = random.randint(0,n-1)
         a[i], a[r] = a[r], a[i]
 ```
-(Source: https://www.geeksforgeeks.org/bogosort-permutation-sort/)
+(Source: [https://www.geeksforgeeks.org/bogosort-permutation-sort/])
 
 ##### Task List
 - [X] Headings
-- [X] Styling text
+- [X] Styling text (italics, bold in about)
 - [X] Quoting text
 - [X] Quoting code
 - [X] External Links (Spotify in about)
-- [X] Section links
+- [X] Section links (Table of contents)
 - [X] Relative links ([secret dog link right here don't tell anyone](images/dogs/hiddendogpic.JPG))
 - [X] Ordered and Unordered Lists
 - [X] Task lists
