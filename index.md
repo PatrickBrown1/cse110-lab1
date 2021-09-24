@@ -52,7 +52,7 @@ def shuffle(a):
         r = random.randint(0,n-1)
         a[i], a[r] = a[r], a[i]
 ```
-(Source: [https://www.geeksforgeeks.org/bogosort-permutation-sort/])
+(Source: [https://www.geeksforgeeks.org/bogosort-permutation-sort/](https://www.geeksforgeeks.org/bogosort-permutation-sort/))
 
 ##### Task List
 - [X] Headings
