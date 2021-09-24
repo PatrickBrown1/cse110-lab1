@@ -4,6 +4,9 @@
 ### Software Engineer, Student
 
 ##### Table of Contents
+[Introduction](https://github.com/PatrickBrown1/cse110-lab1/blob/main/index.md#introduction)
+[My Skills](https://github.com/PatrickBrown1/cse110-lab1/blob/main/index.md#my-skills)
+[Task List](https://github.com/PatrickBrown1/cse110-lab1/blob/main/index.md#task-list)
 
 ##### Introduction
 Hello! My name is Patrick, and I am a third year Computer Science Major at UC San Diego! I've been absolutely *loving* my time here at UCSD! So many beaches to visit, people to meet, things to learn, and most importantly, **food** to eat! In my free time, I like to bake, listen to music (check out my [spotify profile](https://open.spotify.com/user/226e7cz4cgmyny63rpve67uli?si=97f6a1f657b74d20)), and work out.
@@ -57,10 +60,13 @@ def shuffle(a):
 - [X] Quoting text
 - [X] Quoting code
 - [X] External Links (Spotify in about)
-- [] Section links
+- [X] Section links
 - [X] Relative links ([secret dog link right here don't tell anyone](images/dogs/hiddendogpic.JPG))
 - [X] Ordered and Unordered Lists
 - [X] Task lists
+
+
+
 
 *In case you were having a bad day, here are some pictures of my dogs!*
 
